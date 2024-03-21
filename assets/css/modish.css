@@ -2191,7 +2191,7 @@ a.menu-collaps {
 	width: 55px;
 	height: 42px;
 	border-radius: 50px;
-	background-color: #455B55;
+	background-color: rgba(0, 0, 0, 0.356);
 	color: #fafafa;
 	font-size: 30px;
 	letter-spacing: 0;
